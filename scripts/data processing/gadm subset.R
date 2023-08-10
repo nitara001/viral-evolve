@@ -2,7 +2,7 @@ library(sf)
 library(rgdal)
 library(raster)
 #average size of each administrative level
-gadm <- st_read("/Users/nitarawijayatilake/Downloads/gadm_410.gpkg")
+#download data from https://gadm.org/download_world.html
 cities <- gadm[gadm$ENGTYPE_1 == "City", ]
 city_areas <- st_area(cities)
 avg_city_area <- mean(city_areas)
