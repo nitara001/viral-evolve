@@ -2,9 +2,6 @@
 
 Repository contains scripts, data and key outputs for MSc project examining whether zoonotic viruses are evolving faster in locations experiencing greater environmental disturbance
 
-Scripts to run all models and produce figures:
-
-↳ scripts
 
 Datasets used in the analysis:
 
@@ -31,3 +28,24 @@ Datasets used in the analysis:
                 ↳ precip_meanchange_baselinetopresent.tif [precipitaiton change raster]
                 ↳ temperature_meanchange_baselinetopresent.tif [temperature change raster]
 
+Scripts to run all models and produce figures:
+
+↳ scripts → data processing
+                
+                ↳ Distribution of sequences.R [filtering and data availability exploration]
+                ↳ gadm subset.R [city and state size calcs]
+                ↳ geocode.py [python script- locations to co-ords]
+                ↳ tree annotation.R [phylogenetic import]
+                ↳ matching tree and metadata.R [extract branch length]
+                ↳ data aggregation [group by location]
+
+↳ scripts → models
+                
+                ↳ correlation_geo_phylo.R [correlation phylogenetic and spatial distances]
+                ↳ models.R [gam, cross val]
+                ↳ moran test.R [spatial autocorrelation residuals]
+
+↳ scripts → figures
+                
+                ↳ map of temp change.R [temperature raster with sequence distribution]
+                ↳ residual plots.R [test for normality of residuals
