@@ -1,0 +1,1214 @@
+,Country,City,lat,lon
+0,Italy, Emilia Romagna,44.525696,11.039437
+1,Italy, Emilia Romagna,44.525696,11.039437
+2,Italy, Piemonte,45.060735,7.923549
+3,Italy, Piemonte,45.060735,7.923549
+4,Italy, Emilia Romagna,44.525696,11.039437
+5,Italy, Emilia Romagna,44.525696,11.039437
+6,Italy, Veneto,45.6476663,11.8665254
+7,Italy, Veneto,45.6476663,11.8665254
+8,Italy, Veneto,45.6476663,11.8665254
+9,Italy, Veneto,45.6476663,11.8665254
+10,Italy, Veneto,45.6476663,11.8665254
+11,Italy, Emilia Romagna,44.525696,11.039437
+12,Italy, Emilia Romagna,44.525696,11.039437
+13,Italy, Veneto,45.6476663,11.8665254
+14,Italy, Veneto,45.6476663,11.8665254
+15,Italy, Emilia Romagna,44.525696,11.039437
+16,Italy, Veneto,45.6476663,11.8665254
+17,Italy, Veneto,45.6476663,11.8665254
+18,Italy, Friuli Venezia Giulia,46.151042,13.055904
+19,Italy, Veneto,45.6476663,11.8665254
+20,Russia, Voronezh,51.6605982,39.2005858
+21,Russia, Volgograd,48.7081906,44.5153353
+22,Russia, Volgograd,48.7081906,44.5153353
+23,Russia, Volgograd,48.7081906,44.5153353
+24,Russia, Volgograd,48.7081906,44.5153353
+25,Russia, Volgograd,48.7081906,44.5153353
+26,Russia, Volgograd,48.7081906,44.5153353
+27,Russia, Volgograd,48.7081906,44.5153353
+28,Russia, Volgograd,48.7081906,44.5153353
+29,Russia, Volgograd,48.7081906,44.5153353
+30,Russia, Volgograd,48.7081906,44.5153353
+31,Russia, Volgograd,48.7081906,44.5153353
+32,Russia, Volgograd,48.7081906,44.5153353
+33,Russia, Urupinsk,50.7970972,42.0051866
+34,Russia, Rostov,47.2216548,39.7096061
+35,Russia, Dagestan,43.0,47.0
+36,Russia, Astrakhan,46.3498308,48.0326203
+37,Russia, Volgograd,48.7081906,44.5153353
+38,Russia, Volgograd,48.7081906,44.5153353
+39,Russia, Rostov,47.2216548,39.7096061
+40,Russia, Volgograd,48.7081906,44.5153353
+41,Russia, Volgograd,48.7081906,44.5153353
+42,Russia, Volgograd,48.7081906,44.5153353
+43,Senegal, Barkedji region,16.467784,-14.1861373
+44,Senegal, Barkedji region,16.467784,-14.1861373
+45,Senegal, Barkedji region,16.467784,-14.1861373
+46,Senegal, Barkedji region,16.467784,-14.1861373
+47,Senegal, Barkedji region,16.467784,-14.1861373
+48,Senegal, Barkedji region,16.467784,-14.1861373
+49,Senegal, Barkedji region,16.467784,-14.1861373
+50,Senegal, Thille Boubacar region,16.518221,-15.089955
+51,Senegal, Thille Boubacar region,16.518221,-15.089955
+52,Senegal, Barkedji region,16.467784,-14.1861373
+53,Italy, Emilia-Romagna region,42.83333,12.83333
+54,Italy, Emilia-Romagna region,42.83333,12.83333
+55,Italy, Sardinia region,40.0615028,9.0975894
+56,Italy, Piemonte region,45.8866456,10.8410769
+57,Netherlands," Province of Utrecht, Haarzuilens",52.12167,4.99722
+58,Netherlands," Province of Utrecht, Haarzuilens",52.12167,4.99722
+59,Netherlands," Province of Utrecht, Haarzuilens",52.12167,4.99722
+60,Netherlands," Province of Utrecht, Haarzuilens",52.12167,4.99722
+61,Netherlands," Province of Utrecht, Vleuten",52.10583,5.01528
+62,Italy, Piemonte region,45.8866456,10.8410769
+63,Italy, Piemonte region,45.8866456,10.8410769
+64,Italy, Piemonte region,45.8866456,10.8410769
+65,Italy, Lombardi region,45.8771936,11.0585248
+66,Italy, Emilia-Romagna region,42.83333,12.83333
+67,Italy, Emilia-Romagna region,42.83333,12.83333
+68,Italy, Sardegna region,37.5557319,14.288452
+69,Italy, Emilia-Romagna region,42.83333,12.83333
+70,Italy, Emilia-Romagna region,42.83333,12.83333
+71,Italy, Umbria region,37.5513657,14.2917018
+72,USA," Brandford,CT",41.66704,-72.66648
+73,USA, Colorado,38.7251776,-105.607716
+74,Serbia, Temerin,45.4096587,19.8901507
+75,Serbia, Subotica,46.1002058,19.6653273
+76,Serbia, Mali Idjos,45.7067012,19.666121
+77,Serbia, Curug,45.4732331,20.0717969
+78,Serbia, Belgrade,44.8178131,20.4568974
+79,Serbia, Novi Sad,45.2551338,19.8451756
+80,Serbia, Novi Sad,45.2551338,19.8451756
+81,Serbia, Novi Becej,45.5952571,20.1343581
+82,Serbia, Subotica,46.1002058,19.6653273
+83,Serbia, Karavukovo,45.4976668,19.1960432
+84,Serbia, Sombor,45.7727397,19.1147036
+85,Serbia, Opovo,45.0487194,20.4331827
+86,Serbia, Subotica,46.1002058,19.6653273
+87,Spain," Lerida, Catalonia",41.6147605,0.6267842
+88,Spain," Lerida, Catalonia",41.6147605,0.6267842
+89,Spain," Tarragona, Catalonia",41.1172364,1.2546057
+90,Spain," Tarragona, Catalonia",41.1172364,1.2546057
+91,USA," Erie County, NY",42.7164263,-78.7620327
+92,USA," Nassau County, NY",40.7352994,-73.5615778
+93,USA," Erie County, NY",42.7164263,-78.7620327
+94,Italy, Campania region,37.5527082,14.2881663
+95,Spain," Manilva, Malaga",36.3769979,-5.2489786
+96,Russia, Volgograd region,44.0529285,43.0674087
+97,Russia, Volgograd region,44.0529285,43.0674087
+98,Russia, Volgograd region,44.0529285,43.0674087
+99,Russia, Volgograd region,44.0529285,43.0674087
+100,Russia, Volgograd region,44.0529285,43.0674087
+101,Russia, Volgograd region,44.0529285,43.0674087
+102,USA, Washington DC,38.8950368,-77.0365427
+103,Greece," Argolida, Peloponnesus",37.62334,22.41777
+104,Greece," Argolida, Peloponnesus",37.62334,22.41777
+105,USA, District of Columbia,38.8938474,-76.9880428
+106,USA," Illinois, West Chicago suburbs",41.890865,-87.628037
+107,USA," Illinois, West Chicago suburbs",41.890865,-87.628037
+108,USA," Illinois, West Chicago suburbs",41.890865,-87.628037
+109,USA," Illinois, West Chicago suburbs",41.890865,-87.628037
+110,USA," Illinois, West Chicago suburbs",41.890865,-87.628037
+111,USA," Illinois, West Chicago suburbs",41.890865,-87.628037
+112,USA," Illinois, West Chicago suburbs",41.890865,-87.628037
+113,USA," Illinois, West Chicago suburbs",41.890865,-87.628037
+114,USA," Illinois, West Chicago suburbs",41.890865,-87.628037
+115,USA," Illinois, West Chicago suburbs",41.890865,-87.628037
+116,USA," Illinois, West Chicago suburbs",41.890865,-87.628037
+117,USA," Illinois, West Chicago suburbs",41.890865,-87.628037
+118,USA," Illinois, West Chicago suburbs",41.890865,-87.628037
+119,USA," Illinois, West Chicago suburbs",41.890865,-87.628037
+120,USA," Illinois, West Chicago suburbs",41.890865,-87.628037
+121,USA," Illinois, West Chicago suburbs",41.890865,-87.628037
+122,USA," Illinois, West Chicago suburbs",41.890865,-87.628037
+123,USA," Illinois, West Chicago suburbs",41.890865,-87.628037
+124,USA," Illinois, West Chicago suburbs",41.890865,-87.628037
+125,USA," Illinois, West Chicago suburbs",41.890865,-87.628037
+126,USA," Lakeside,California",37.8038335,-122.2630807
+127,USA," El_Cajon,California",32.7947731,-116.962526
+128,USA," El_Cajon,California",32.7947731,-116.962526
+129,USA," La_Jolla,California",32.8401623,-117.2740777
+130,USA," San_Diego,California",32.7174202,-117.1627728
+131,USA," Lakeside,California",37.8038335,-122.2630807
+132,USA," Carlsbad,California",33.1580933,-117.3505966
+133,USA," National_City,California",32.6781085,-117.0991967
+134,USA," San_Diego,California",32.7174202,-117.1627728
+135,USA," Chula_Vista,California",32.6400541,-117.0841955
+136,USA," Ramona,California",33.035378,-116.8675132
+137,USA," San_Diego,California",32.7174202,-117.1627728
+138,USA," Poway,California",32.9628234,-117.035864
+139,USA," San_Diego,California",32.7174202,-117.1627728
+140,USA," San_Diego,California",32.7174202,-117.1627728
+141,USA," Oceanside,California",33.1958696,-117.3794834
+142,USA," El_Cajon,California",32.7947731,-116.962526
+143,USA," Oceanside,California",33.1958696,-117.3794834
+144,USA," Santee,California",32.8383828,-116.9739167
+145,USA," San_Diego,California",32.7174202,-117.1627728
+146,USA," San_Diego,California",32.7174202,-117.1627728
+147,USA," Solana_Beach,California",32.9905597,-117.269131
+148,USA," Lemon_Grove,California",32.7425516,-117.0314172
+149,USA," San_Diego,California",32.7174202,-117.1627728
+150,USA," San_Diego,California",32.7174202,-117.1627728
+151,USA," Santee,California",32.8383828,-116.9739167
+152,USA," Escondido,California",33.1216751,-117.0814849
+153,USA," Cardiff,California",33.6885223,-117.8071872
+154,USA," Ramona,California",33.035378,-116.8675132
+155,USA," Valley_Center,California",33.2183701,-117.0341967
+156,USA," San_Diego,California",32.7174202,-117.1627728
+157,USA," Poway,California",32.9628234,-117.035864
+158,USA," Alpine,California",38.5893934,-119.8345013
+159,USA," Alpine,California",38.5893934,-119.8345013
+160,USA," Poway,California",32.9628234,-117.035864
+161,USA," Ramona,California",33.035378,-116.8675132
+162,USA," Fallbrook,California",33.3764196,-117.2511466
+163,USA," La_Mesa,California",32.7678288,-117.0230839
+164,USA," Del_Mar,California",32.9594891,-117.2653146
+165,USA," El_Cajon,California",32.7947731,-116.962526
+166,USA," Valley_Center,California",33.2183701,-117.0341967
+167,USA," Pine_Valley,California",32.8417439,-116.5150479
+168,USA," Valley_Center,California",33.2183701,-117.0341967
+169,USA," El_Cajon,California",32.7947731,-116.962526
+170,USA," Santee,California",32.8383828,-116.9739167
+171,USA," San_Diego,California",32.7174202,-117.1627728
+172,USA," Santee,California",32.8383828,-116.9739167
+173,USA," San_Diego,California",32.7174202,-117.1627728
+174,USA," El_Cajon,California",32.7947731,-116.962526
+175,USA," San_Diego,California",32.7174202,-117.1627728
+176,USA," San_Diego,California",32.7174202,-117.1627728
+177,USA," La_Mesa,California",32.7678288,-117.0230839
+178,USA," Lakeside,California",37.8038335,-122.2630807
+179,USA," Santee,California",32.8383828,-116.9739167
+180,USA," San_Diego,California",32.7174202,-117.1627728
+181,USA," San_Diego,California",32.7174202,-117.1627728
+182,USA," Chula_Vista,California",32.6400541,-117.0841955
+183,USA," Del_Mar,California",32.9594891,-117.2653146
+184,USA," San_Diego,California",32.7174202,-117.1627728
+185,USA," Ramona,California",33.035378,-116.8675132
+186,USA," San_Diego,California",32.7174202,-117.1627728
+187,USA," San_Diego,California",32.7174202,-117.1627728
+188,USA," San_Diego,California",32.7174202,-117.1627728
+189,USA," Santee,California",32.8383828,-116.9739167
+190,USA," Lemon_Grove,California",32.7425516,-117.0314172
+191,USA," Lemon_Grove,California",32.7425516,-117.0314172
+192,USA," El_Cajon,California",32.7947731,-116.962526
+193,USA," Oceanside,California",33.1958696,-117.3794834
+194,USA," San_Marcos,California",33.1433723,-117.1661449
+195,USA," San_Diego,California",32.7174202,-117.1627728
+196,USA," National_City,California",32.6781085,-117.0991967
+197,USA," San_Diego,California",32.7174202,-117.1627728
+198,USA," Del_Mar,California",32.9594891,-117.2653146
+199,USA," Encinitas,California",33.0369867,-117.2919818
+200,USA," Escondido,California",33.1216751,-117.0814849
+201,USA," El_Cajon,California",32.7947731,-116.962526
+202,USA," San_Diego,California",32.7174202,-117.1627728
+203,USA," Coronado,California",32.6915199,-117.1766947
+204,USA," Descanso,California",32.8528287,-116.6158525
+205,USA," Santa_Ysabel,California",33.1092099,-116.673076
+206,USA," Imperial_Beach,California",32.5839444,-117.1130849
+207,USA," El_Cajon,California",32.7947731,-116.962526
+208,USA," San_Diego,California",32.7174202,-117.1627728
+209,USA," San_Diego,California",32.7174202,-117.1627728
+210,USA," Chula_Vista,California",32.6400541,-117.0841955
+211,USA," Carlsbad,California",33.1580933,-117.3505966
+212,USA," Encinitas,California",33.0369867,-117.2919818
+213,USA," Ramona,California",33.035378,-116.8675132
+214,USA," Ramona,California",33.035378,-116.8675132
+215,USA," Carlsbad,California",33.1580933,-117.3505966
+216,USA," San_Diego,California",32.7174202,-117.1627728
+217,USA," Santee,California",32.8383828,-116.9739167
+218,USA," Escondido,California",33.1216751,-117.0814849
+219,USA," San_Diego,California",32.7174202,-117.1627728
+220,USA," Chula_Vista,California",32.6400541,-117.0841955
+221,USA," Doyle,California",40.1233532,-120.4897635
+222,USA," Oroville,California",39.5137752,-121.556359
+223,USA," Modesto,California",37.6390972,-120.9968782
+224,USA," Gridley,California",39.3637773,-121.693583
+225,USA," Modesto,California",37.6390972,-120.9968782
+226,USA," Fresno,California",36.7394421,-119.7848307
+227,USA," Redlands,California",34.0550328,-117.1827445
+228,USA," San_Andreas,California",38.1875605,-120.6753826
+229,USA," La_Verne,California",34.1008426,-117.7678355
+230,USA," Antioch,California",38.0049214,-121.805789
+231,USA," Turlock,California",37.4946568,-120.8465941
+232,USA," Agoura_Hills,California",34.14791,-118.7657042
+233,USA," Bakersfield,California",35.3738712,-119.0194639
+234,USA," Hanford,California",36.3274502,-119.6456844
+235,USA," Turlock,California",37.4946568,-120.8465941
+236,USA," Ceres,California",37.5949316,-120.9577098
+237,USA," Roseville,California",38.7521235,-121.2880059
+238,USA," Ceres,California",37.5949316,-120.9577098
+239,USA," Fresno,California",36.7394421,-119.7848307
+240,USA," Stockton,California",37.9577016,-121.2907796
+241,USA," Alta_Loma,California",34.122887,-117.5985775
+242,USA," Roseville,California",38.7521235,-121.2880059
+243,USA," Sierra_Madre,California",34.1616729,-118.052845
+244,USA," Modesto,California",37.6390972,-120.9968782
+245,USA," Riverside,California",33.9824949,-117.3742389
+246,USA," Visalia,California",36.3302284,-119.292058
+247,USA," Northridge,California",34.2345615,-118.5369316
+248,USA," Atwater,California",37.3477174,-120.609084
+249,USA," Visalia,California",36.3302284,-119.292058
+250,USA," Beverly_Hills,California",34.0696501,-118.3963062
+251,USA," Atwater,California",37.3477174,-120.609084
+252,USA," Loomis,California",38.8212889,-121.193004
+253,USA," Redding,California",40.5863563,-122.391675
+254,USA," Paradise,California",39.7596061,-121.6219177
+255,USA," Redondo,California",33.5136599,-117.6832659
+256,USA," West_Covina,California",34.0686208,-117.9389526
+257,USA," Anderson,California",40.448208,-122.297781
+258,USA," Chico,California",39.7284945,-121.8374777
+259,USA," Atwater,California",37.3477174,-120.609084
+260,USA," Redding,California",40.5863563,-122.391675
+261,USA," Norco,California",33.9323307,-117.5508901
+262,USA," Temple_City,California",34.1082994,-118.0577568
+263,USA," West_Hills,California",34.2032325,-118.645476
+264,USA," Fontana,California",34.0922335,-117.435048
+265,USA," Corona,California",33.8752945,-117.5664449
+266,USA," Norco,California",33.9323307,-117.5508901
+267,USA," Thousand_Oaks,California",34.1705609,-118.8375937
+268,USA," Walnut_Creek,California",37.9020731,-122.0618702
+269,USA," Danville,California",37.8225892,-122.0008254
+270,USA," Chico,California",39.7284945,-121.8374777
+271,USA," Simi_Valley,California",34.2677404,-118.7538071
+272,USA," Chico,California",39.7284945,-121.8374777
+273,USA," Lakewood,California",33.8503463,-118.117191
+274,USA," Long_Beach,California",33.7690164,-118.191604
+275,USA," Encino,California",34.1591324,-118.5016166
+276,USA," Encino,California",34.1591324,-118.5016166
+277,USA," Clotho,California",36.7213392,-119.6098571
+278,USA," Hanford,California",36.3274502,-119.6456844
+279,USA," Sultana,California",37.4537424,-122.1836925
+280,USA," Denair,California",37.55026,-120.718131
+281,USA," Laton,California",36.43392,-119.6899038
+282,USA," Del_Ray,California",33.9804664,-117.698792
+283,USA," Winnetka,California",34.2013207,-118.5711037
+284,USA," Parlier,California",36.6116174,-119.527073
+285,USA," Hanford,California",36.3274502,-119.6456844
+286,USA," Granada_Hills,California",34.2661558,-118.5174342
+287,USA," Woodville,California",37.9446471,-122.7063748
+288,USA," Lemoore,California",36.3006495,-119.7827122
+289,USA," Mello,California",39.2065579,-121.5632997
+290,USA," Harmony,California",36.1235632,-119.1698298
+291,USA," Oasis,California",33.465863,-116.0988922
+292,USA," South_Whittier,California",33.9366769,-118.0288059
+293,USA," Van_Nuys,California",34.1866193,-118.4486675
+294,USA," Sanger,California",36.708006,-119.5559652
+295,USA," Dos_Palos,California",36.9860582,-120.626572
+296,USA," Dos_Palos,California",36.9860582,-120.626572
+297,USA," Finley,California",39.0043407,-122.8755498
+298,USA," Butte_Valley,California",35.9449101,-117.071835
+299,USA," San_Fernando,California",34.28497,-118.437652
+300,USA," North_Lakeport,California",39.090682,-122.9026879
+301,USA," Lakeview,California",33.8269305,-117.1258269
+302,USA," Lakeview,California",33.8269305,-117.1258269
+303,USA," Yuba_City,California",39.1404477,-121.6169108
+304,USA," Northridge,California",34.2345615,-118.5369316
+305,USA," Lake_Balboa,California",34.1938237,-118.5010456
+306,USA," Ontario,California",34.065846,-117.6484304
+307,USA," Turlock,California",37.4946568,-120.8465941
+308,USA," Fresno,California",36.7394421,-119.7848307
+309,USA," Marysville,California",39.1457247,-121.5913516
+310,USA," Notarb,California",37.0111301,-120.1170438
+311,USA," Turlock,California",37.4946568,-120.8465941
+312,USA," Ontario,California",34.065846,-117.6484304
+313,USA," Martinez,California",38.0138934,-122.1338674
+314,USA," Livermore,California",37.6820583,-121.768053
+315,USA," Lancaster,California",34.6981064,-118.1366153
+316,USA," Kingsburg,California",36.5138398,-119.5538929
+317,USA," South_Gate,California",33.9463456,-118.200981
+318,USA," Riverdale,California",36.4311225,-119.859619
+319,USA," Mello,California",39.2065579,-121.5632997
+320,USA," Oakley,California",37.9974219,-121.7124536
+321,USA," Earlimart,California",35.875918,-119.262323
+322,USA," Firebaugh,California",36.8588376,-120.456007
+323,USA," Glenn,California",39.5912766,-122.3778662
+324,USA," Fremont,California",37.5482697,-121.988571
+325,USA," Chico,California",39.7284945,-121.8374777
+326,USA," Clearlake,California",38.9582307,-122.626372
+327,USA," Yuba_City,California",39.1404477,-121.6169108
+328,USA," Pleasant_Grove,California",38.8237881,-121.4838455
+329,USA," Fresno,California",36.7394421,-119.7848307
+330,USA," Marysville,California",39.1457247,-121.5913516
+331,USA," Fresno,California",36.7394421,-119.7848307
+332,USA," Fresno,California",36.7394421,-119.7848307
+333,USA," Armona,California",36.315894,-119.7024315
+334,USA," Kerman,California",36.7235543,-120.059914
+335,USA," Dos_Palos,California",36.9860582,-120.626572
+336,USA," Pixley,California",35.038464,-120.520265
+337,USA," Lemoore,California",36.3006495,-119.7827122
+338,USA," Lemoore,California",36.3006495,-119.7827122
+339,USA," Rowland,California",34.0018404,-117.9305501
+340,USA," Bellflower,California",33.8825705,-118.1167679
+341,USA," Atwater,California",37.3477174,-120.609084
+342,USA," Turlock,California",37.4946568,-120.8465941
+343,USA," Bakersfield,California",35.3738712,-119.0194639
+344,USA," Bakersfield,California",35.3738712,-119.0194639
+345,USA," Bakersfield,California",35.3738712,-119.0194639
+346,USA," Bakersfield,California",35.3738712,-119.0194639
+347,USA," Bakersfield,California",35.3738712,-119.0194639
+348,USA," Bakersfield,California",35.3738712,-119.0194639
+349,USA," Bakersfield,California",35.3738712,-119.0194639
+350,USA," Bakersfield,California",35.3738712,-119.0194639
+351,USA," Bakersfield,California",35.3738712,-119.0194639
+352,USA," Bakersfield,California",35.3738712,-119.0194639
+353,USA," Bakersfield,California",35.3738712,-119.0194639
+354,USA," Bakersfield,California",35.3738712,-119.0194639
+355,USA," Bakersfield,California",35.3738712,-119.0194639
+356,USA," Bakersfield,California",35.3738712,-119.0194639
+357,USA," Bakersfield,California",35.3738712,-119.0194639
+358,USA," Bakersfield,California",35.3738712,-119.0194639
+359,USA," Bakersfield,California",35.3738712,-119.0194639
+360,USA," Bakersfield,California",35.3738712,-119.0194639
+361,USA," Bakersfield,California",35.3738712,-119.0194639
+362,USA," Bakersfield,California",35.3738712,-119.0194639
+363,USA," Bakersfield,California",35.3738712,-119.0194639
+364,USA," Bakersfield,California",35.3738712,-119.0194639
+365,USA," Bakersfield,California",35.3738712,-119.0194639
+366,USA," Bakersfield,California",35.3738712,-119.0194639
+367,USA," Bakersfield,California",35.3738712,-119.0194639
+368,USA," Bakersfield,California",35.3738712,-119.0194639
+369,USA," Bakersfield,California",35.3738712,-119.0194639
+370,USA," Bakersfield,California",35.3738712,-119.0194639
+371,USA," Bakersfield,California",35.3738712,-119.0194639
+372,USA," Bakersfield,California",35.3738712,-119.0194639
+373,USA," Bakersfield,California",35.3738712,-119.0194639
+374,USA," Bakersfield,California",35.3738712,-119.0194639
+375,USA," Bakersfield,California",35.3738712,-119.0194639
+376,USA," Bakersfield,California",35.3738712,-119.0194639
+377,USA," Bakersfield,California",35.3738712,-119.0194639
+378,USA," Shafter,California",35.4894832,-119.2207949
+379,USA," Bakersfield,California",35.3738712,-119.0194639
+380,USA," Bakersfield,California",35.3738712,-119.0194639
+381,USA," Bakersfield,California",35.3738712,-119.0194639
+382,USA," Bakersfield,California",35.3738712,-119.0194639
+383,USA," Bakersfield,California",35.3738712,-119.0194639
+384,USA," Bakersfield,California",35.3738712,-119.0194639
+385,USA," Bakersfield,California",35.3738712,-119.0194639
+386,USA," Bakersfield,California",35.3738712,-119.0194639
+387,USA," Bakersfield,California",35.3738712,-119.0194639
+388,USA," Bakersfield,California",35.3738712,-119.0194639
+389,USA," Bakersfield,California",35.3738712,-119.0194639
+390,USA," Bakersfield,California",35.3738712,-119.0194639
+391,USA," Bakersfield,California",35.3738712,-119.0194639
+392,USA," Bakersfield,California",35.3738712,-119.0194639
+393,USA," Bakersfield,California",35.3738712,-119.0194639
+394,USA," Bakersfield,California",35.3738712,-119.0194639
+395,USA," Bakersfield,California",35.3738712,-119.0194639
+396,USA," Bakersfield,California",35.3738712,-119.0194639
+397,USA," Bakersfield,California",35.3738712,-119.0194639
+398,USA," Bakersfield,California",35.3738712,-119.0194639
+399,USA," Bakersfield,California",35.3738712,-119.0194639
+400,USA," Bakersfield,California",35.3738712,-119.0194639
+401,USA," Bakersfield,California",35.3738712,-119.0194639
+402,USA," Bakersfield,California",35.3738712,-119.0194639
+403,USA," Bakersfield,California",35.3738712,-119.0194639
+404,USA," Bakersfield,California",35.3738712,-119.0194639
+405,USA," Bakersfield,California",35.3738712,-119.0194639
+406,USA," Bakersfield,California",35.3738712,-119.0194639
+407,USA," Bakersfield,California",35.3738712,-119.0194639
+408,USA," Bakersfield,California",35.3738712,-119.0194639
+409,USA," Bakersfield,California",35.3738712,-119.0194639
+410,USA," Bakersfield,California",35.3738712,-119.0194639
+411,USA," Bakersfield,California",35.3738712,-119.0194639
+412,USA," Bakersfield,California",35.3738712,-119.0194639
+413,USA," Shafter,California",35.4894832,-119.2207949
+414,USA," Bakersfield,California",35.3738712,-119.0194639
+415,USA," Bakersfield,California",35.3738712,-119.0194639
+416,USA," Bakersfield,California",35.3738712,-119.0194639
+417,USA," Bakersfield,California",35.3738712,-119.0194639
+418,USA," Bakersfield,California",35.3738712,-119.0194639
+419,USA," Bakersfield,California",35.3738712,-119.0194639
+420,USA," Bakersfield,California",35.3738712,-119.0194639
+421,USA," Bakersfield,California",35.3738712,-119.0194639
+422,USA," Bakersfield,California",35.3738712,-119.0194639
+423,USA," Bakersfield,California",35.3738712,-119.0194639
+424,USA," Bakersfield,California",35.3738712,-119.0194639
+425,USA," Bakersfield,California",35.3738712,-119.0194639
+426,USA," Bakersfield,California",35.3738712,-119.0194639
+427,USA," Bakersfield,California",35.3738712,-119.0194639
+428,USA," Bakersfield,California",35.3738712,-119.0194639
+429,USA," Bakersfield,California",35.3738712,-119.0194639
+430,USA," Bakersfield,California",35.3738712,-119.0194639
+431,USA," Bakersfield,California",35.3738712,-119.0194639
+432,USA," Bakersfield,California",35.3738712,-119.0194639
+433,USA," Bakersfield,California",35.3738712,-119.0194639
+434,USA," Bakersfield,California",35.3738712,-119.0194639
+435,USA," Bakersfield,California",35.3738712,-119.0194639
+436,USA," Bakersfield,California",35.3738712,-119.0194639
+437,USA," Bakersfield,California",35.3738712,-119.0194639
+438,USA," Bakersfield,California",35.3738712,-119.0194639
+439,USA," Bakersfield,California",35.3738712,-119.0194639
+440,USA," Arvin,California",35.209129,-118.828431
+441,USA," Bakersfield,California",35.3738712,-119.0194639
+442,USA," Greenacres,California",35.3832927,-119.1098266
+443,USA," Bakersfield,California",35.3738712,-119.0194639
+444,USA," Bakersfield,California",35.3738712,-119.0194639
+445,USA," Bakersfield,California",35.3738712,-119.0194639
+446,USA," Bakersfield,California",35.3738712,-119.0194639
+447,USA," Greenacres,California",35.3832927,-119.1098266
+448,USA," Greenacres,California",35.3832927,-119.1098266
+449,USA," Bakersfield,California",35.3738712,-119.0194639
+450,USA," Santee,California",32.8383828,-116.9739167
+451,USA," San_Diego,California",32.7174202,-117.1627728
+452,USA," San_Diego,California",32.7174202,-117.1627728
+453,USA," San_Diego,California",32.7174202,-117.1627728
+454,USA," San_Diego,California",32.7174202,-117.1627728
+455,USA," San_Diego,California",32.7174202,-117.1627728
+456,USA," Ramona,California",33.035378,-116.8675132
+457,USA," Poway,California",32.9628234,-117.035864
+458,USA," El_Cajon,California",32.7947731,-116.962526
+459,USA," San_Diego,California",32.7174202,-117.1627728
+460,USA," San_Diego,California",32.7174202,-117.1627728
+461,USA," San_Diego,California",32.7174202,-117.1627728
+462,USA," San_Diego,California",32.7174202,-117.1627728
+463,USA," San_Diego,California",32.7174202,-117.1627728
+464,USA," San_Diego,California",32.7174202,-117.1627728
+465,USA," Ramona,California",33.035378,-116.8675132
+466,USA," San_Diego,California",32.7174202,-117.1627728
+467,USA," San_Diego,California",32.7174202,-117.1627728
+468,USA," San_Diego,California",32.7174202,-117.1627728
+469,USA," San_Diego,California",32.7174202,-117.1627728
+470,USA," San_Diego,California",32.7174202,-117.1627728
+471,USA," San_Diego,California",32.7174202,-117.1627728
+472,USA," San_Diego,California",32.7174202,-117.1627728
+473,USA," San_Diego,California",32.7174202,-117.1627728
+474,USA," San_Diego,California",32.7174202,-117.1627728
+475,USA," San_Diego,California",32.7174202,-117.1627728
+476,USA," San_Diego,California",32.7174202,-117.1627728
+477,USA," Mira_Mesa,California",32.915602,-117.1439226
+478,USA," San_Diego,California",32.7174202,-117.1627728
+479,USA," San_Diego,California",32.7174202,-117.1627728
+480,USA," San_Diego,California",32.7174202,-117.1627728
+481,USA," San_Diego,California",32.7174202,-117.1627728
+482,USA," San_Diego,California",32.7174202,-117.1627728
+483,USA," San_Diego,California",32.7174202,-117.1627728
+484,USA," San_Diego,California",32.7174202,-117.1627728
+485,USA," San_Diego,California",32.7174202,-117.1627728
+486,USA," Del_Mar,California",32.9594891,-117.2653146
+487,USA," Escondido,California",33.1216751,-117.0814849
+488,USA," San_Diego,California",32.7174202,-117.1627728
+489,USA," San_Diego,California",32.7174202,-117.1627728
+490,USA," Bakersfield,California",35.3738712,-119.0194639
+491,USA," Bakersfield,California",35.3738712,-119.0194639
+492,USA," Bakersfield,California",35.3738712,-119.0194639
+493,USA," Bakersfield,California",35.3738712,-119.0194639
+494,USA," Arvin,California",35.209129,-118.828431
+495,USA," Bakersfield,California",35.3738712,-119.0194639
+496,USA," Bakersfield,California",35.3738712,-119.0194639
+497,USA," Greenacres,California",35.3832927,-119.1098266
+498,USA," Arvin,California",35.209129,-118.828431
+499,USA," Shafter,California",35.4894832,-119.2207949
+500,USA," Wasco,California",35.5941238,-119.3409457
+501,USA," Bakersfield,California",35.3738712,-119.0194639
+502,USA," Bakersfield,California",35.3738712,-119.0194639
+503,USA," Bakersfield,California",35.3738712,-119.0194639
+504,USA," Bakersfield,California",35.3738712,-119.0194639
+505,USA," Bakersfield,California",35.3738712,-119.0194639
+506,USA," Bakersfield,California",35.3738712,-119.0194639
+507,USA," Bakersfield,California",35.3738712,-119.0194639
+508,USA," Bakersfield,California",35.3738712,-119.0194639
+509,USA," Bakersfield,California",35.3738712,-119.0194639
+510,USA," Bakersfield,California",35.3738712,-119.0194639
+511,USA," Arvin,California",35.209129,-118.828431
+512,USA," Arvin,California",35.209129,-118.828431
+513,USA," Shafter,California",35.4894832,-119.2207949
+514,USA," Shafter,California",35.4894832,-119.2207949
+515,USA," Buttonwillow,California",35.187133,-117.885359
+516,USA," Bakersfield,California",35.3738712,-119.0194639
+517,USA," Bakersfield,California",35.3738712,-119.0194639
+518,USA," Shafter,California",35.4894832,-119.2207949
+519,USA," Bakersfield,California",35.3738712,-119.0194639
+520,USA," Bakersfield,California",35.3738712,-119.0194639
+521,USA," Bakersfield,California",35.3738712,-119.0194639
+522,USA," Bakersfield,California",35.3738712,-119.0194639
+523,USA," Bakersfield,California",35.3738712,-119.0194639
+524,USA," Bakersfield,California",35.3738712,-119.0194639
+525,USA," Bakersfield,California",35.3738712,-119.0194639
+526,USA," Arvin,California",35.209129,-118.828431
+527,USA," Arvin,California",35.209129,-118.828431
+528,USA," Arvin,California",35.209129,-118.828431
+529,USA," Bakersfield,California",35.3738712,-119.0194639
+530,USA," Bakersfield,California",35.3738712,-119.0194639
+531,USA," Bakersfield,California",35.3738712,-119.0194639
+532,USA," Bakersfield,California",35.3738712,-119.0194639
+533,USA," Greenacres,California",35.3832927,-119.1098266
+534,USA," Bakersfield,California",35.3738712,-119.0194639
+535,USA," Arvin,California",35.209129,-118.828431
+536,USA," Bakersfield,California",35.3738712,-119.0194639
+537,USA," Buttonwillow,California",35.187133,-117.885359
+538,USA," Delano,California",35.7688425,-119.2470536
+539,USA," Bakersfield,California",35.3738712,-119.0194639
+540,USA," Buttonwillow,California",35.187133,-117.885359
+541,USA, Denton Co. TX,33.1838787,-97.1413417
+542,USA, Ellis Co. TX,32.3347829,-96.7920233
+543,USA, Denton Co. TX,33.1838787,-97.1413417
+544,USA, Dallas Co. TX,32.7620405,-96.7790069
+545,USA, Tarrant Co. TX,32.7513658,-97.335696
+546,USA, Collin Co. TX,33.1609629,-96.6060984
+547,USA, Collin Co. TX,33.1609629,-96.6060984
+548,USA, Dallas Co. TX,32.7620405,-96.7790069
+549,USA, Denton Co. TX,33.1838787,-97.1413417
+550,USA, Dallas Co. TX,32.7620405,-96.7790069
+551,USA, Dallas Co. TX,32.7620405,-96.7790069
+552,USA, Dallas Co. TX,32.7620405,-96.7790069
+553,USA, Dallas Co. TX,32.7620405,-96.7790069
+554,USA, Dallas Co. TX,32.7620405,-96.7790069
+555,USA, Dallas Co. TX,32.7620405,-96.7790069
+556,USA, Dallas Co. TX,32.7620405,-96.7790069
+557,USA, Dallas Co. TX,32.7620405,-96.7790069
+558,USA, Dallas Co. TX,32.7620405,-96.7790069
+559,USA, Dallas Co. TX,32.7620405,-96.7790069
+560,USA, Dallas Co. TX,32.7620405,-96.7790069
+561,USA, Dallas Co. TX,32.7620405,-96.7790069
+562,USA, Dallas Co. TX,32.7620405,-96.7790069
+563,USA, Dallas Co. TX,32.7620405,-96.7790069
+564,USA, Dallas Co. TX,32.7620405,-96.7790069
+565,USA, Montgomery Co. TX,30.301949,-95.5065944
+566,USA, Denton Co. TX,33.1838787,-97.1413417
+567,USA, Fort Bend Co. TX,29.511218,-95.7807348
+568,USA, Dallas Co. TX,32.7620405,-96.7790069
+569,USA, Montgomery Co. TX,30.301949,-95.5065944
+570,USA, El Paso Co. TX,31.8072184,-106.2230394
+571,USA, Montgomery Co. TX,30.301949,-95.5065944
+572,USA, El Paso Co. TX,31.8072184,-106.2230394
+573,USA, Montgomery Co. TX,30.301949,-95.5065944
+574,USA, Denton Co. TX,33.1838787,-97.1413417
+575,USA, Montgomery Co. TX,30.301949,-95.5065944
+576,USA, Montgomery Co. TX,30.301949,-95.5065944
+577,USA, Travis Co. TX,30.2878569,-97.7561392
+578,USA, Denton Co. TX,33.1838787,-97.1413417
+579,USA, Montgomery Co. TX,30.301949,-95.5065944
+580,USA, Fort Bend Co. TX,29.511218,-95.7807348
+581,USA, Fort Bend Co. TX,29.511218,-95.7807348
+582,USA, Fort Bend Co. TX,29.511218,-95.7807348
+583,USA, Collin Co. TX,33.1609629,-96.6060984
+584,USA, El Paso Co. TX,31.8072184,-106.2230394
+585,USA, Dallas Co. TX,32.7620405,-96.7790069
+586,USA, Fort Bend Co. TX,29.511218,-95.7807348
+587,USA, Dallas Co. TX,32.7620405,-96.7790069
+588,USA, Denton Co. TX,33.1838787,-97.1413417
+589,USA, Williamson Co. TX,30.6580927,-97.6041649
+590,USA, Williamson Co. TX,30.6580927,-97.6041649
+591,USA, Collin Co. TX,33.1609629,-96.6060984
+592,USA, Fort Bend Co. TX,29.511218,-95.7807348
+593,USA, Collin Co. TX,33.1609629,-96.6060984
+594,USA, Fort Bend Co. TX,29.511218,-95.7807348
+595,USA, Denton Co. TX,33.1838787,-97.1413417
+596,USA, El Paso Co. TX,31.8072184,-106.2230394
+597,USA, Montgomery Co. TX,30.301949,-95.5065944
+598,USA, Denton Co. TX,33.1838787,-97.1413417
+599,USA, El Paso Co. TX,31.8072184,-106.2230394
+600,USA, Montgomery Co. TX,30.301949,-95.5065944
+601,USA, El Paso Co. TX,31.8072184,-106.2230394
+602,USA, Fort Bend Co. TX,29.511218,-95.7807348
+603,USA, Montgomery Co. TX,30.301949,-95.5065944
+604,USA, Travis Co. TX,30.2878569,-97.7561392
+605,USA, Dallas Co. TX,32.7620405,-96.7790069
+606,USA, Travis Co. TX,30.2878569,-97.7561392
+607,USA, Dallas Co. TX,32.7620405,-96.7790069
+608,USA, Dallas Co. TX,32.7620405,-96.7790069
+609,USA, Denton Co. TX,33.1838787,-97.1413417
+610,USA, Collin Co. TX,33.1609629,-96.6060984
+611,USA, Denton Co. TX,33.1838787,-97.1413417
+612,USA, Denton Co. TX,33.1838787,-97.1413417
+613,USA," VA, Norfolk County",37.342095,-79.844658
+614,USA," VA, Norfolk County",37.342095,-79.844658
+615,USA," VA, Norfolk County",37.342095,-79.844658
+616,USA," VA, Norfolk County",37.342095,-79.844658
+617,USA," VA, Norfolk County",37.342095,-79.844658
+618,USA," VA, Norfolk County",37.342095,-79.844658
+619,USA," VA, Norfolk County",37.342095,-79.844658
+620,USA," VA, Norfolk County",37.342095,-79.844658
+621,USA," VA, Norfolk County",37.342095,-79.844658
+622,USA," VA, Norfolk County",37.342095,-79.844658
+623,USA," VA, Norfolk County",37.342095,-79.844658
+624,USA," VA, Norfolk County",37.342095,-79.844658
+625,USA," VA, Norfolk County",37.342095,-79.844658
+626,USA," VA, Norfolk County",37.342095,-79.844658
+627,USA," VA, Norfolk County",37.342095,-79.844658
+628,USA," VA, Norfolk County",37.342095,-79.844658
+629,USA," VA, Norfolk County",37.342095,-79.844658
+630,USA," VA, Norfolk County",37.342095,-79.844658
+631,USA," VA, Norfolk County",37.342095,-79.844658
+632,USA," VA, Norfolk County",37.342095,-79.844658
+633,USA," VA, Norfolk County",37.342095,-79.844658
+634,USA," VA, Norfolk County",37.342095,-79.844658
+635,USA," CO, Weld County",40.4065001,-104.6933275
+636,USA," CO, Weld County",40.4065001,-104.6933275
+637,USA," CO, Weld County",40.4065001,-104.6933275
+638,USA," CO, Weld County",40.4065001,-104.6933275
+639,USA," CO, Weld County",40.4065001,-104.6933275
+640,USA," CO, Weld County",40.4065001,-104.6933275
+641,USA," CO, Wellington, Larimer County",40.7039473,-105.0045883
+642,USA," CO, Weld County",40.4065001,-104.6933275
+643,USA, CO,38.7251776,-105.607716
+644,USA," CO, Weld County",40.4065001,-104.6933275
+645,USA," CO, Weld County",40.4065001,-104.6933275
+646,USA," CO, Wellington, Larimer County",40.7039473,-105.0045883
+647,USA," CO, Wellington, Larimer County",40.7039473,-105.0045883
+648,USA," CO, Weld County",40.4065001,-104.6933275
+649,USA," CO, Wellington, Larimer County",40.7039473,-105.0045883
+650,USA," CO, Weld County",40.4065001,-104.6933275
+651,USA," CO, Weld County",40.4065001,-104.6933275
+652,USA," CO, Wellington, Larimer County",40.7039473,-105.0045883
+653,USA," CO, Scarborough Forth Collins",32.712531,-81.876477
+654,USA," GA, Lawnder County",35.394658,-87.534021
+655,USA," GA, Garden City, Chatham",32.0959975,-81.1934656
+656,USA," GA, Atlanta, Fulton County",33.7489465,-84.4760683
+657,USA," GA, Atlanta, Fulton County",33.7489465,-84.4760683
+658,USA," GA, Decatur, Dekalb County",33.7663577,-84.3120009
+659,USA," GA, Valdasta, Lowndes",30.83386,-83.26771
+660,USA," GA, Atlanta, Fulton County",33.7489465,-84.4760683
+661,USA," GA, Norcross, Gwinnett",33.9429567,-84.2394948
+662,USA," GA, Savannah, Chatham",31.9782186,-81.1627303
+663,USA," GA, Dekalb County",33.933798,-84.302482
+664,USA," GA, Decatur, Dekalb County",33.7663577,-84.3120009
+665,USA," GA, Garden City, Chatham",32.0959975,-81.1934656
+666,Slovakia, Velky Biel,48.2134001,17.3598861
+667,Slovakia, Velky Biel,48.2134001,17.3598861
+668,Slovakia, Velky Biel,48.2134001,17.3598861
+669,Slovakia, Secovce,48.7015059,21.6555995
+670,USA, AZ,34.395342,-111.763275
+671,USA, AZ,34.395342,-111.763275
+672,USA, AZ,34.395342,-111.763275
+673,USA, AZ,34.395342,-111.763275
+674,USA, AZ,34.395342,-111.763275
+675,USA, AZ,34.395342,-111.763275
+676,USA, AZ,34.395342,-111.763275
+677,USA, AZ,34.395342,-111.763275
+678,USA, AZ,34.395342,-111.763275
+679,USA, AZ,34.395342,-111.763275
+680,USA, AZ,34.395342,-111.763275
+681,USA, AZ,34.395342,-111.763275
+682,USA, AZ,34.395342,-111.763275
+683,USA, AZ,34.395342,-111.763275
+684,USA," Texas, Harris County",29.7558655,-95.0897994
+685,USA," Texas, Harris County",29.7558655,-95.0897994
+686,Uganda, Queen Elizabeth National Park,-0.0196719,29.7381821
+687,USA," Nassau Co., NY",40.7352994,-73.5615778
+688,USA," Broome Co., NY",42.1455623,-75.8404114
+689,USA," Onondaga Co., NY",43.015598,-76.2257127
+690,USA," Albany Co., NY",42.5986896,-73.9843997
+691,USA," Oswego Co., NY",43.4112973,-76.1279841
+692,USA," Oneida Co., NY",43.2144051,-75.4039155
+693,USA," Greene Co., NY",42.2628769,-74.0878112
+694,USA," Orleans Co., NY",43.2244513,-78.2272835
+695,USA," Westchester Co., NY",41.1763139,-73.7907554
+696,USA," Suffolk Co., NY",40.8832318,-72.8578027
+697,USA," Rockland Co., NY",41.1519319,-74.0357266
+698,USA," Oswego Co., NY",43.4112973,-76.1279841
+699,USA," Westchester Co., NY",41.1763139,-73.7907554
+700,USA," Onondaga Co., NY",43.015598,-76.2257127
+701,USA," Erie Co., NY",42.7164263,-78.7620327
+702,USA," Nassau Co., NY",40.7352994,-73.5615778
+703,USA," Albany Co., NY",42.5986896,-73.9843997
+704,USA," Nassau Co., NY",40.7352994,-73.5615778
+705,USA," Dutchess Co., NY",41.7194303,-73.7516205
+706,USA," Oneida Co., NY",43.2144051,-75.4039155
+707,USA," Nassau Co., NY",40.7352994,-73.5615778
+708,USA," Bronx Co., NY",40.8506558,-73.8665241
+709,USA," Nassau Co., NY",40.7352994,-73.5615778
+710,USA," Onondaga Co., NY",43.015598,-76.2257127
+711,USA," Suffolk Co., NY",40.8832318,-72.8578027
+712,USA," Orange Co., NY",41.3873306,-74.2507287
+713,USA," Nassau Co., NY",40.7352994,-73.5615778
+714,USA," Rockland Co., NY",41.1519319,-74.0357266
+715,USA," Chautauqua Co., NY",42.2894671,-79.421728
+716,USA," Dutchess Co., NY",41.7194303,-73.7516205
+717,USA," Montgomery Co., NY",42.8941269,-74.4099745
+718,USA," Putnam Co., NY",41.426996,-73.760156
+719,USA," Chautauqua Co., NY",42.2894671,-79.421728
+720,USA," Niagara Co., NY",43.2042439,-78.7676017
+721,USA," Rockland Co., NY",41.1519319,-74.0357266
+722,USA," Kings Co., NY",40.6526006,-73.9497211
+723,USA," Dutchess Co., NY",41.7194303,-73.7516205
+724,USA," Suffolk Co., NY",40.8832318,-72.8578027
+725,USA," Nassau Co., NY",40.7352994,-73.5615778
+726,USA," Nassau Co., NY",40.7352994,-73.5615778
+727,USA," Queens Co., NY",40.7135078,-73.8283132
+728,USA," Rockland Co., NY",41.1519319,-74.0357266
+729,USA," Rockland Co., NY",41.1519319,-74.0357266
+730,USA," Onondaga Co., NY",43.015598,-76.2257127
+731,USA," Erie Co., NY",42.7164263,-78.7620327
+732,USA," Orleans Co., NY",43.2244513,-78.2272835
+733,USA," Westchester Co., NY",41.1763139,-73.7907554
+734,USA," Richmond Co., NY",40.5834557,-74.1496048
+735,USA," Westchester Co., NY",41.1763139,-73.7907554
+736,USA," Orange Co., NY",41.3873306,-74.2507287
+737,USA," Onondaga Co., NY",43.015598,-76.2257127
+738,USA," Westchester Co., NY",41.1763139,-73.7907554
+739,USA," Westchester Co., NY",41.1763139,-73.7907554
+740,USA," Lewis Co., NY",43.7344277,-75.440289
+741,USA," Erie Co., NY",42.7164263,-78.7620327
+742,USA," Suffolk Co., NY",40.8832318,-72.8578027
+743,USA," Oswego Co., NY",43.4112973,-76.1279841
+744,USA," Erie Co., NY",42.7164263,-78.7620327
+745,USA," Ontario Co., NY",42.8580624,-77.295025
+746,USA," Niagara Co., NY",43.2042439,-78.7676017
+747,USA," Onondaga Co., NY",43.015598,-76.2257127
+748,USA," Onondaga Co., NY",43.015598,-76.2257127
+749,USA," Suffolk Co., NY",40.8832318,-72.8578027
+750,USA," Nassau Co., NY",40.7352994,-73.5615778
+751,USA," Oswego Co., NY",43.4112973,-76.1279841
+752,USA," Albany Co., NY",42.5986896,-73.9843997
+753,USA," Seneca Co., NY",42.7831619,-76.8386051
+754,USA," Erie Co., NY",42.7164263,-78.7620327
+755,USA," Madison Co., NY",42.875882,-75.6802581
+756,USA," Erie Co., NY",42.7164263,-78.7620327
+757,USA," Albany Co., NY",42.5986896,-73.9843997
+758,USA," Suffolk Co., NY",40.8832318,-72.8578027
+759,USA," Oswego Co., NY",43.4112973,-76.1279841
+760,USA," Nassau Co., NY",40.7352994,-73.5615778
+761,USA," Niagara Co., NY",43.2042439,-78.7676017
+762,USA," Chautauqua Co., NY",42.2894671,-79.421728
+763,USA," Cortland Co., NY",42.5842136,-76.0704906
+764,USA," Schenectady Co., NY",42.8321765,-74.0443451
+765,USA," Onondaga Co., NY",43.015598,-76.2257127
+766,USA," Sufolk Co., NY",43.00035,-75.4999
+767,USA," Oswego Co., NY",43.4112973,-76.1279841
+768,USA," Rockland Co., NY",41.1519319,-74.0357266
+769,USA," Nassau Co., NY",40.7352994,-73.5615778
+770,USA," Orleans Co., NY",43.2244513,-78.2272835
+771,USA," Ulster Co., NY",41.8689317,-74.2618518
+772,USA," Westchester Co., NY",41.1763139,-73.7907554
+773,USA," Westchester Co., NY",41.1763139,-73.7907554
+774,USA," Bronx Co., NY",40.8506558,-73.8665241
+775,USA," Suffolk Co., NY",40.8832318,-72.8578027
+776,USA," Nassau Co., NY",40.7352994,-73.5615778
+777,USA," Niagara Co., NY",43.2042439,-78.7676017
+778,USA," Rensselaer Co., NY",42.7091389,-73.5107732
+779,USA," Rockland Co., NY",41.1519319,-74.0357266
+780,USA," Westchester Co., NY",41.1763139,-73.7907554
+781,USA," Oswego Co., NY",43.4112973,-76.1279841
+782,USA," Onondaga Co., NY",43.015598,-76.2257127
+783,USA," Nassau Co., NY",40.7352994,-73.5615778
+784,USA," Niagara Co., NY",43.2042439,-78.7676017
+785,USA," Rockland Co., NY",41.1519319,-74.0357266
+786,USA," Richmond Co., NY",40.5834557,-74.1496048
+787,USA," Erie Co., NY",42.7164263,-78.7620327
+788,USA," Bronx Co., NY",40.8506558,-73.8665241
+789,USA," Suffolk Co., NY",40.8832318,-72.8578027
+790,USA," Erie Co., NY",42.7164263,-78.7620327
+791,USA," Erie Co., NY",42.7164263,-78.7620327
+792,USA," Rockland Co., NY",41.1519319,-74.0357266
+793,USA," Richmond Co., NY",40.5834557,-74.1496048
+794,USA," Suffolk Co., NY",40.8832318,-72.8578027
+795,USA," Orange Co., NY",41.3873306,-74.2507287
+796,USA," Dutchess Co., NY",41.7194303,-73.7516205
+797,USA," Orange Co., NY",41.3873306,-74.2507287
+798,USA," Erie Co., NY",42.7164263,-78.7620327
+799,USA," Oswego Co., NY",43.4112973,-76.1279841
+800,USA," Monroe Co., NY",43.150094,-77.6810141
+801,USA," Rockland Co., NY",41.1519319,-74.0357266
+802,USA," Westchester Co., NY",41.1763139,-73.7907554
+803,USA," Rockland Co., NY",41.1519319,-74.0357266
+804,USA," Orange Co., NY",41.3873306,-74.2507287
+805,USA," Albany Co., NY",42.5986896,-73.9843997
+806,USA," Oswego Co., NY",43.4112973,-76.1279841
+807,USA," Suffolk Co., NY",40.8832318,-72.8578027
+808,USA," Rockland Co., NY",41.1519319,-74.0357266
+809,USA," Nassau Co., NY",40.7352994,-73.5615778
+810,USA," Putnam Co., NY",41.426996,-73.760156
+811,USA," Suffolk Co., NY",40.8832318,-72.8578027
+812,USA," Dutchess Co., NY",41.7194303,-73.7516205
+813,USA," Suffolk Co., NY",40.8832318,-72.8578027
+814,USA," Bronx Co., NY",40.8506558,-73.8665241
+815,USA," Richmond Co., NY",40.5834557,-74.1496048
+816,USA," Rockland Co., NY",41.1519319,-74.0357266
+817,USA," Westchester Co., NY",41.1763139,-73.7907554
+818,USA," Dutchess Co., NY",41.7194303,-73.7516205
+819,USA," Jefferson Co., NY",44.059311,-75.9995742
+820,USA," Suffolk Co., NY",40.8832318,-72.8578027
+821,USA," Niagara Co., NY",43.2042439,-78.7676017
+822,USA," Oswego Co., NY",43.4112973,-76.1279841
+823,USA," Erie Co., NY",42.7164263,-78.7620327
+824,USA," Nassau Co., NY",40.7352994,-73.5615778
+825,USA," Erie Co., NY",42.7164263,-78.7620327
+826,USA," Richmond Co., NY",40.5834557,-74.1496048
+827,USA," Richmond Co., NY",40.5834557,-74.1496048
+828,USA," Richmond Co., NY",40.5834557,-74.1496048
+829,USA," Chautauqua Co., NY",42.2894671,-79.421728
+830,USA," Suffolk Co., NY",40.8832318,-72.8578027
+831,USA," Suffolk Co., NY",40.8832318,-72.8578027
+832,USA," Erie Co., NY",42.7164263,-78.7620327
+833,USA," Erie Co., NY",42.7164263,-78.7620327
+834,USA," Suffolk Co., NY",40.8832318,-72.8578027
+835,USA," Rockland Co., NY",41.1519319,-74.0357266
+836,USA," Rensselaer Co., NY",42.7091389,-73.5107732
+837,USA," Suffolk Co., NY",40.8832318,-72.8578027
+838,USA," Queens Co., NY",40.7135078,-73.8283132
+839,USA," Suffolk Co., NY",40.8832318,-72.8578027
+840,USA," Albany Co., NY",42.5986896,-73.9843997
+841,USA," Nassau Co., NY",40.7352994,-73.5615778
+842,USA," Suffolk Co., NY",40.8832318,-72.8578027
+843,USA," Oswego Co., NY",43.4112973,-76.1279841
+844,USA," Madison Co., NY",42.875882,-75.6802581
+845,USA," Otsego Co., NY",42.5984272,-75.0142701
+846,USA," Onondaga Co., NY",43.015598,-76.2257127
+847,USA," Rockland Co., NY",41.1519319,-74.0357266
+848,USA," St. Lawrence Co., NY",44.4973591,-75.0657043
+849,USA," Dutchess Co., NY",41.7194303,-73.7516205
+850,USA," Suffolk Co., NY",40.8832318,-72.8578027
+851,USA," Onondaga Co., NY",43.015598,-76.2257127
+852,USA," Suffolk Co., NY",40.8832318,-72.8578027
+853,USA," Onondaga Co., NY",43.015598,-76.2257127
+854,USA," Onondaga Co., NY",43.015598,-76.2257127
+855,USA," Niagara Co., NY",43.2042439,-78.7676017
+856,USA," Suffolk Co., NY",40.8832318,-72.8578027
+857,USA," Richmond Co., NY",40.5834557,-74.1496048
+858,USA," Rockland Co., NY",41.1519319,-74.0357266
+859,USA," Kings Co., NY",40.6526006,-73.9497211
+860,USA," Erie Co., NY",42.7164263,-78.7620327
+861,USA," Onondaga Co., NY",43.015598,-76.2257127
+862,USA," Suffolk Co., NY",40.8832318,-72.8578027
+863,USA," Suffolk Co., NY",40.8832318,-72.8578027
+864,USA," Westchester Co., NY",41.1763139,-73.7907554
+865,USA," Nassau Co., NY",40.7352994,-73.5615778
+866,USA," Suffolk Co., NY",40.8832318,-72.8578027
+867,USA," Suffolk Co., NY",40.8832318,-72.8578027
+868,USA," Suffolk Co., NY",40.8832318,-72.8578027
+869,USA," Onondaga Co., NY",43.015598,-76.2257127
+870,USA," Monroe Co., NY",43.150094,-77.6810141
+871,USA," Nassau Co., NY",40.7352994,-73.5615778
+872,USA," Suffolk Co., NY",40.8832318,-72.8578027
+873,USA," Chautauqua Co., NY",42.2894671,-79.421728
+874,USA," Nassau Co., NY",40.7352994,-73.5615778
+875,USA," Madison Co., NY",42.875882,-75.6802581
+876,USA," Suffolk Co., NY",40.8832318,-72.8578027
+877,USA," Suffolk Co., NY",40.8832318,-72.8578027
+878,USA," Weschester Co., NY",40.720709,-73.981308
+879,USA," Westchester Co., NY",41.1763139,-73.7907554
+880,USA," Onondaga Co., NY",43.015598,-76.2257127
+881,USA," Erie Co., NY",42.7164263,-78.7620327
+882,USA," Erie Co., NY",42.7164263,-78.7620327
+883,USA," Livingston Co., NY",42.7360902,-77.7781416
+884,USA," Erie Co., NY",42.7164263,-78.7620327
+885,USA," Orleans Co., NY",43.2244513,-78.2272835
+886,USA," Suffolk Co., NY",40.8832318,-72.8578027
+887,USA," Suffolk Co., NY",40.8832318,-72.8578027
+888,USA," Nassau Co., NY",40.7352994,-73.5615778
+889,USA," Oswego Co., NY",43.4112973,-76.1279841
+890,USA," Nassau Co., NY",40.7352994,-73.5615778
+891,USA," Rockland Co., NY",41.1519319,-74.0357266
+892,USA," Erie Co., NY",42.7164263,-78.7620327
+893,USA," Suffolk Co., NY",40.8832318,-72.8578027
+894,USA," Queens Co., NY",40.7135078,-73.8283132
+895,USA," Schenectady Co., NY",42.8321765,-74.0443451
+896,USA," Westchester Co., NY",41.1763139,-73.7907554
+897,USA," Niagara Co., NY",43.2042439,-78.7676017
+898,USA," Onondaga Co., NY",43.015598,-76.2257127
+899,USA," Erie Co., NY",42.7164263,-78.7620327
+900,USA," Dutchess Co., NY",41.7194303,-73.7516205
+901,USA," Suffolk Co., NY",40.8832318,-72.8578027
+902,USA," Rockland Co., NY",41.1519319,-74.0357266
+903,USA," Onondaga Co., NY",43.015598,-76.2257127
+904,USA," Lewis Co., NY",43.7344277,-75.440289
+905,USA," Nassau Co., NY",40.7352994,-73.5615778
+906,USA," Erie Co., NY",42.7164263,-78.7620327
+907,USA," Chautauqua Co., NY",42.2894671,-79.421728
+908,USA," Suffolk Co., NY",40.8832318,-72.8578027
+909,USA," Oswego Co., NY",43.4112973,-76.1279841
+910,USA," Schenectady Co., NY",42.8321765,-74.0443451
+911,USA," Tompkins Co., NY",42.445339,-76.472794
+912,USA," Ulster Co., NY",41.8689317,-74.2618518
+913,USA," Columbia Co., NY",42.2415027,-73.6723456
+914,USA," Westchester Co., NY",41.1763139,-73.7907554
+915,USA," Schuyler Co., NY",42.3903231,-76.8691575
+916,USA," Nassau Co., NY",40.7352994,-73.5615778
+917,USA," Albany Co., NY",42.5986896,-73.9843997
+918,USA," Westchester Co., NY",41.1763139,-73.7907554
+919,USA," Queens Co., NY",40.7135078,-73.8283132
+920,USA," Onondaga Co., NY",43.015598,-76.2257127
+921,USA," Dutchess Co., NY",41.7194303,-73.7516205
+922,USA," Suffolk Co., NY",40.8832318,-72.8578027
+923,USA," Schenectady Co., NY",42.8321765,-74.0443451
+924,USA," Suffolk Co., NY",40.8832318,-72.8578027
+925,USA," Tompkins Co., NY",42.445339,-76.472794
+926,USA," Onondaga Co., NY",43.015598,-76.2257127
+927,USA," Nassau Co., NY",40.7352994,-73.5615778
+928,USA," Westchester Co., NY",41.1763139,-73.7907554
+929,USA," Onondaga Co., NY",43.015598,-76.2257127
+930,USA," Monroe Co., NY",43.150094,-77.6810141
+931,USA," Otsego Co., NY",42.5984272,-75.0142701
+932,USA," Oswego Co., NY",43.4112973,-76.1279841
+933,USA," Oswego Co., NY",43.4112973,-76.1279841
+934,USA," Onondaga Co., NY",43.015598,-76.2257127
+935,USA," Kings Co., NY",40.6526006,-73.9497211
+936,USA," Jefferson Co., NY",44.059311,-75.9995742
+937,USA," Orange Co., NY",41.3873306,-74.2507287
+938,USA," Oswego Co., NY",43.4112973,-76.1279841
+939,USA," Suffolk Co., NY",40.8832318,-72.8578027
+940,USA," Nassau Co., NY",40.7352994,-73.5615778
+941,USA," Nassau Co., NY",40.7352994,-73.5615778
+942,USA," Suffolk Co., NY",40.8832318,-72.8578027
+943,USA," Suffolk Co., NY",40.8832318,-72.8578027
+944,USA," Erie Co., NY",42.7164263,-78.7620327
+945,USA," Westchester Co., NY",41.1763139,-73.7907554
+946,USA," Onondaga Co., NY",43.015598,-76.2257127
+947,USA," Cortland Co., NY",42.5842136,-76.0704906
+948,USA," Albany Co., NY",42.5986896,-73.9843997
+949,USA," Chautauqua Co., NY",42.2894671,-79.421728
+950,USA," Rockland Co., NY",41.1519319,-74.0357266
+951,USA," Rockland Co., NY",41.1519319,-74.0357266
+952,USA," Nassau Co., NY",40.7352994,-73.5615778
+953,USA," Suffolk Co., NY",40.8832318,-72.8578027
+954,USA," Suffolk Co., NY",40.8832318,-72.8578027
+955,USA," Onondaga Co., NY",43.015598,-76.2257127
+956,USA," Queens Co., NY",40.7135078,-73.8283132
+957,USA," Nassau Co., NY",40.7352994,-73.5615778
+958,USA," Niagara Co., NY",43.2042439,-78.7676017
+959,USA," Rockland Co., NY",41.1519319,-74.0357266
+960,USA," Albany Co., NY",42.5986896,-73.9843997
+961,USA," Suffolk Co., NY",40.8832318,-72.8578027
+962,USA," Queens Co., NY",40.7135078,-73.8283132
+963,USA," Westchester Co., NY",41.1763139,-73.7907554
+964,USA," Dutchess Co., NY",41.7194303,-73.7516205
+965,USA," Suffolk Co., NY",40.8832318,-72.8578027
+966,USA," Dutchess Co., NY",41.7194303,-73.7516205
+967,USA," Westchester Co., NY",41.1763139,-73.7907554
+968,USA," Rensselaer Co., NY",42.7091389,-73.5107732
+969,USA," Nassau Co., NY",40.7352994,-73.5615778
+970,USA," Erie Co., NY",42.7164263,-78.7620327
+971,USA," Rockland Co., NY",41.1519319,-74.0357266
+972,USA," Erie Co., NY",42.7164263,-78.7620327
+973,USA," Erie Co., NY",42.7164263,-78.7620327
+974,USA," Columbia Co., NY",42.2415027,-73.6723456
+975,USA," Suffolk Co., NY",40.8832318,-72.8578027
+976,USA," Erie Co., NY",42.7164263,-78.7620327
+977,USA," Suffolk Co., NY",40.8832318,-72.8578027
+978,USA," Kings Co., NY",40.6526006,-73.9497211
+979,Australia," Pilbara Region, Western Australia",-25.0,122.0
+980,Australia," Kimberley Region, Western Australia",-25.0,122.0
+981,Australia," Kimberley Region, Western Australia",-25.0,122.0
+982,Australia, New South Wales,-31.8759835,147.2869493
+983,USA," Fort Collins, CO",40.5508527,-105.0668085
+984,USA," Houston, Harris Co., TX",29.7589382,-95.3676974
+985,USA," Kathy, Harris Co., TX",29.6359173,-95.1890224
+986,Romania, Enisala,44.8785704,28.8188637
+987,Czech Republic," South Moravia, Novy fishpond at Mikulov",48.80556,16.6378
+988,Czech Republic," South Moravia, Nesyt fishpond at Mikulov",48.80556,16.6378
+989,Czech Republic," South Moravia, Mlynsky fishpond at Lednice",48.79992,16.80339
+990,Czech Republic," South Moravia, Mlynsky fishpond at Lednice",48.79992,16.80339
+991,Austria, Lake Neusiedl,47.8007451,16.7368505
+992,British Virgin Islands, Necker Island,18.5265982,-64.3583581
+993,USA," Glendale, Maricopa Co., AZ",33.5386858,-112.185994
+994,USA," Gilbert, Maricopa Co., AZ",33.3527632,-111.789037
+995,USA," Gilbert, Maricopa Co., AZ",33.3527632,-111.789037
+996,USA," Harris Co., Texas",29.7044011,-96.5419157
+997,USA," Harris Co., Texas",29.7044011,-96.5419157
+998,USA," Katy, Harris Co., Texas",33.501885,-96.403601
+999,USA," Katy, Harris Co., Texas",33.501885,-96.403601
+1000,USA," Pasadena, Harris Co., Texas",33.109701,-98.570659
+1001,USA," Houston, Harris Co., Texas",33.516867,-96.396186
+1002,USA," Katy, Harris Co., Texas",33.501885,-96.403601
+1003,USA," Houston, Harris Co., Texas",33.516867,-96.396186
+1004,USA," Houston, Harris Co., Texas",33.516867,-96.396186
+1005,USA," Houston, Harris Co., Texas",33.516867,-96.396186
+1006,USA," Harris Co., Texas",29.7044011,-96.5419157
+1007,USA," Harris Co., Texas",29.7044011,-96.5419157
+1008,USA," Harris Co., Texas",29.7044011,-96.5419157
+1009,USA," Harris Co., Texas",29.7044011,-96.5419157
+1010,USA," Denton, Denton Co., Texas",33.1837096,-97.1007764
+1011,USA," Plano, Collin Co., Texas",31.12464,-97.718155
+1012,USA," Fairview, Collin Co., Texas",31.13111,-97.736838
+1013,USA, Texas,31.2638905,-98.5456116
+1014,USA, Texas,31.2638905,-98.5456116
+1015,USA, Texas,31.2638905,-98.5456116
+1016,USA, Texas,31.2638905,-98.5456116
+1017,USA, Texas,31.2638905,-98.5456116
+1018,USA, Texas,31.2638905,-98.5456116
+1019,USA, Texas,31.2638905,-98.5456116
+1020,USA, Texas,31.2638905,-98.5456116
+1021,USA, Texas,31.2638905,-98.5456116
+1022,USA, Texas,31.2638905,-98.5456116
+1023,USA, Texas,31.2638905,-98.5456116
+1024,USA, Texas,31.2638905,-98.5456116
+1025,USA, Texas,31.2638905,-98.5456116
+1026,USA, Texas,31.2638905,-98.5456116
+1027,USA, Texas,31.2638905,-98.5456116
+1028,USA, Texas,31.2638905,-98.5456116
+1029,USA, Texas,31.2638905,-98.5456116
+1030,USA, ID,43.6447642,-114.015407
+1031,USA, ID,43.6447642,-114.015407
+1032,USA, ID,43.6447642,-114.015407
+1033,USA, ID,43.6447642,-114.015407
+1034,USA, ID,43.6447642,-114.015407
+1035,USA, UT,39.4225192,-111.714358
+1036,USA, ND,47.6201461,-100.540737
+1037,USA, ID,43.6447642,-114.015407
+1038,USA, CO,38.7251776,-105.607716
+1039,USA, CO,38.7251776,-105.607716
+1040,USA, ID,43.6447642,-114.015407
+1041,USA, ID,43.6447642,-114.015407
+1042,USA, AZ,34.395342,-111.763275
+1043,USA, NV,39.5158825,-116.8537227
+1044,USA, NV,39.5158825,-116.8537227
+1045,USA, AZ,34.395342,-111.763275
+1046,USA, NV,39.5158825,-116.8537227
+1047,USA, NV,39.5158825,-116.8537227
+1048,USA, LA,34.0536909,-118.242766
+1049,USA, NV,39.5158825,-116.8537227
+1050,USA, SD,44.6471761,-100.348761
+1051,USA, TX,31.2638905,-98.5456116
+1052,USA, TX,31.2638905,-98.5456116
+1053,USA, CO,38.7251776,-105.607716
+1054,USA, AZ,34.395342,-111.763275
+1055,USA, AZ,34.395342,-111.763275
+1056,Kenya," Ijara, North Eastern Province",1.0,40.25
+1057,USA," El Paso, Texas",31.7550511,-106.4882345
+1058,USA," El Paso, Texas",31.7550511,-106.4882345
+1059,USA," El Paso, Texas",31.7550511,-106.4882345
+1060,Mexico," Cuidad Juarez, Chihuahua State",23.0,-102.0
+1061,USA," El Paso, Texas",31.7550511,-106.4882345
+1062,Mexico," Cuidad Juarez, Chihuahua State",23.0,-102.0
+1063,USA," El Paso, Texas",31.7550511,-106.4882345
+1064,USA," El Paso, Texas",31.7550511,-106.4882345
+1065,USA," El Paso, Texas",31.7550511,-106.4882345
+1066,Colombia, Medellin,6.2443382,-75.573553
+1067,Colombia, Medellin,6.2443382,-75.573553
+1068,USA, New York,40.7127281,-74.0060152
+1069,USA, New York,40.7127281,-74.0060152
+1070,USA, New York,40.7127281,-74.0060152
+1071,USA, Illinois,40.0796606,-89.4337288
+1072,USA, Texas,31.2638905,-98.5456116
+1073,USA, Texas,31.2638905,-98.5456116
+1074,USA, Texas,31.2638905,-98.5456116
+1075,USA, Texas,31.2638905,-98.5456116
+1076,USA, Texas,31.2638905,-98.5456116
+1077,USA, Texas,31.2638905,-98.5456116
+1078,USA, Texas,31.2638905,-98.5456116
+1079,USA, Texas,31.2638905,-98.5456116
+1080,USA, Texas,31.2638905,-98.5456116
+1081,USA, Texas,31.2638905,-98.5456116
+1082,USA, Texas,31.2638905,-98.5456116
+1083,USA, Texas,31.2638905,-98.5456116
+1084,USA, Texas,31.2638905,-98.5456116
+1085,USA, Texas,31.2638905,-98.5456116
+1086,USA, Texas,31.2638905,-98.5456116
+1087,USA, Texas,31.2638905,-98.5456116
+1088,USA, Texas,31.2638905,-98.5456116
+1089,USA, Connecticut,41.6500201,-72.7342163
+1090,USA, New York,40.7127281,-74.0060152
+1091,USA, Connecticut,41.6500201,-72.7342163
+1092,USA, Connecticut,41.6500201,-72.7342163
+1093,USA, Connecticut,41.6500201,-72.7342163
+1094,USA, Connecticut,41.6500201,-72.7342163
+1095,USA, Connecticut,41.6500201,-72.7342163
+1096,USA, Connecticut,41.6500201,-72.7342163
+1097,USA, Connecticut,41.6500201,-72.7342163
+1098,USA, Connecticut,41.6500201,-72.7342163
+1099,USA, Connecticut,41.6500201,-72.7342163
+1100,USA, Connecticut,41.6500201,-72.7342163
+1101,USA, Connecticut,41.6500201,-72.7342163
+1102,USA, Connecticut,41.6500201,-72.7342163
+1103,USA, Connecticut,41.6500201,-72.7342163
+1104,USA, Connecticut,41.6500201,-72.7342163
+1105,USA, Connecticut,41.6500201,-72.7342163
+1106,USA, Connecticut,41.6500201,-72.7342163
+1107,USA, Connecticut,41.6500201,-72.7342163
+1108,USA, Connecticut,41.6500201,-72.7342163
+1109,USA, Connecticut,41.6500201,-72.7342163
+1110,USA, Connecticut,41.6500201,-72.7342163
+1111,USA, Connecticut,41.6500201,-72.7342163
+1112,USA, Connecticut,41.6500201,-72.7342163
+1113,USA, Connecticut,41.6500201,-72.7342163
+1114,USA, Connecticut,41.6500201,-72.7342163
+1115,USA, Connecticut,41.6500201,-72.7342163
+1116,USA, Connecticut,41.6500201,-72.7342163
+1117,USA, Connecticut,41.6500201,-72.7342163
+1118,USA, Connecticut,41.6500201,-72.7342163
+1119,USA, Connecticut,41.6500201,-72.7342163
+1120,USA, Connecticut,41.6500201,-72.7342163
+1121,USA, Connecticut,41.6500201,-72.7342163
+1122,USA, Connecticut,41.6500201,-72.7342163
+1123,USA, Connecticut,41.6500201,-72.7342163
+1124,USA, New York,40.7127281,-74.0060152
+1125,USA, New York,40.7127281,-74.0060152
+1126,USA, New York,40.7127281,-74.0060152
+1127,USA, New York,40.7127281,-74.0060152
+1128,USA, Illinois,40.0796606,-89.4337288
+1129,USA, Illinois,40.0796606,-89.4337288
+1130,USA, New York,40.7127281,-74.0060152
+1131,USA, New York,40.7127281,-74.0060152
+1132,USA, New York,40.7127281,-74.0060152
+1133,USA, New York,40.7127281,-74.0060152
+1134,USA, New York,40.7127281,-74.0060152
+1135,USA, New York,40.7127281,-74.0060152
+1136,USA, New York,40.7127281,-74.0060152
+1137,USA, New York,40.7127281,-74.0060152
+1138,USA, New York,40.7127281,-74.0060152
+1139,USA, New York,40.7127281,-74.0060152
+1140,USA, Connecticut,41.6500201,-72.7342163
+1141,USA, Connecticut,41.6500201,-72.7342163
+1142,USA, Connecticut,41.6500201,-72.7342163
+1143,USA, Connecticut,41.6500201,-72.7342163
+1144,USA, Connecticut,41.6500201,-72.7342163
+1145,USA, Connecticut,41.6500201,-72.7342163
+1146,USA, Connecticut,41.6500201,-72.7342163
+1147,USA, Connecticut,41.6500201,-72.7342163
+1148,USA, Connecticut,41.6500201,-72.7342163
+1149,USA, Connecticut,41.6500201,-72.7342163
+1150,USA, Connecticut,41.6500201,-72.7342163
+1151,USA, Connecticut,41.6500201,-72.7342163
+1152,USA, Connecticut,41.6500201,-72.7342163
+1153,USA, Connecticut,41.6500201,-72.7342163
+1154,USA, Connecticut,41.6500201,-72.7342163
+1155,USA, Connecticut,41.6500201,-72.7342163
+1156,USA, Connecticut,41.6500201,-72.7342163
+1157,USA, Connecticut,41.6500201,-72.7342163
+1158,USA, Connecticut,41.6500201,-72.7342163
+1159,USA, Connecticut,41.6500201,-72.7342163
+1160,USA, Connecticut,41.6500201,-72.7342163
+1161,USA, Connecticut,41.6500201,-72.7342163
+1162,USA, Connecticut,41.6500201,-72.7342163
+1163,USA, Connecticut,41.6500201,-72.7342163
+1164,USA, Connecticut,41.6500201,-72.7342163
+1165,USA, Connecticut,41.6500201,-72.7342163
+1166,USA, Connecticut,41.6500201,-72.7342163
+1167,USA, Connecticut,41.6500201,-72.7342163
+1168,USA, Connecticut,41.6500201,-72.7342163
+1169,USA, Illinois,40.0796606,-89.4337288
+1170,USA, Illinois,40.0796606,-89.4337288
+1171,USA, Illinois,40.0796606,-89.4337288
+1172,USA, Illinois,40.0796606,-89.4337288
+1173,USA, Illinois,40.0796606,-89.4337288
+1174,USA, Illinois,40.0796606,-89.4337288
+1175,USA, Illinois,40.0796606,-89.4337288
+1176,USA, New York,40.7127281,-74.0060152
+1177,USA, New York,40.7127281,-74.0060152
+1178,USA, New York,40.7127281,-74.0060152
+1179,USA, New York,40.7127281,-74.0060152
+1180,USA, New York,40.7127281,-74.0060152
+1181,USA, New York,40.7127281,-74.0060152
+1182,USA, New York,40.7127281,-74.0060152
+1183,USA, New York,40.7127281,-74.0060152
+1184,USA, New York,40.7127281,-74.0060152
+1185,USA, New York,40.7127281,-74.0060152
+1186,USA, New York,40.7127281,-74.0060152
+1187,USA, New York,40.7127281,-74.0060152
+1188,USA, New York,40.7127281,-74.0060152
+1189,USA, New York,40.7127281,-74.0060152
+1190,USA, New York,40.7127281,-74.0060152
+1191,USA, New York,40.7127281,-74.0060152
+1192,USA, New York,40.7127281,-74.0060152
+1193,USA, New York,40.7127281,-74.0060152
+1194,USA, New York,40.7127281,-74.0060152
+1195,USA, Illinois,40.0796606,-89.4337288
+1196,USA, Illinois,40.0796606,-89.4337288
+1197,USA, Connecticut,41.6500201,-72.7342163
+1198,USA, Connecticut,41.6500201,-72.7342163
+1199,USA, New York,40.7127281,-74.0060152
+1200,USA, Connecticut,41.6500201,-72.7342163
+1201,USA, New York,40.7127281,-74.0060152
+1202,USA, New York,40.7127281,-74.0060152
+1203,USA, New Mexico,34.5708167,-105.993007
+1204,USA, New York,40.7127281,-74.0060152
+1205,USA, California,36.7014631,-118.755997
+1206,USA, California,36.7014631,-118.755997
+1207,USA, California,36.7014631,-118.755997
+1208,Russia, Volgograd,48.7081906,44.5153353
+1209,Russia, Volgograd,48.7081906,44.5153353
+1210,Russia, Volgograd,48.7081906,44.5153353
+1211,China,,29.3644727,112.3905651
+1212,Japan, Okinawa,26.5707754,128.0255901
