@@ -19,7 +19,9 @@ grouped_data <- west_nile_data %>%
     X = mean(X),
     Y = mean(Y)
   )
-
+#get inverse branch length
+grouped_data <- grouped_data %>%
++     mutate(inverse_branch_length = 1 / median_branch_length)
 # Filter and plot histogram for West Nile data
 grouped_data <- grouped_data %>%
   filter(log(median_branch_length) > -10, log(median_branch_length) < -4)
@@ -46,7 +48,9 @@ grouped_rabies <- rabies_data %>%
     X = mean(X),
     Y = mean(Y)
   )
-
+#get inverse branch length
+grouped_rabies <- grouped_rabies %>%
++     mutate(inverse_branch_length = 1 / median_branch_length)
 # Filter and plot histogram for Rabies data
 grouped_rabies <- grouped_rabies %>%
   filter(log(median_branch_length) > -12, log(median_branch_length) < -2)
