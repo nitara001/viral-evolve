@@ -1,0 +1,169 @@
+# Cross-validation
+# ----------------
+library(caret)
+library(dplyr)
+library(mgcv)
+library(countrycode)
+library(ggplot2)
+library(reshape2)
+library(gridExtra)
+
+# Create a training control object for cross-validation
+ctrl <- trainControl(method = "cv", number = 5)
+
+# Split the data into training and testing sets
+set.seed(123)  # For reproducibility
+wn_train_indices <- createDataPartition(grouped_data$median_branch_length, p = 0.7, list = FALSE)
+wn_train_data <- grouped_data[wn_train_indices, ]
+wn_test_data <- grouped_data[-wn_train_indices, ]
+
+# Fit a GAM model using the training data
+wn_gam_model <- train(
+  log(median_branch_length) ~ mean_sum_extracted_values +
+    mean_extracted_temp + mean_extracted_precip,
+  data = wn_train_data, method = "gam", trControl = ctrl
+)
+
+# Predict using the test data
+wn_predictions <- predict(wn_gam_model, newdata = wn_test_data)
+wn_predictions_original <- exp(wn_predictions)
+wn_errors <- wn_predictions_original - wn_test_data$median_branch_length
+
+# Calculate performance metrics
+wn_MAE <- mean(abs(wn_errors), na.rm = TRUE)
+wn_MSE <- mean(wn_errors^2, na.rm = TRUE)
+wn_RMSE <- sqrt(wn_MSE)
+wn_R_squared <- cor(wn_predictions_original, wn_test_data$median_branch_length)^2
+wn_response_range <- range(wn_test_data$median_branch_length)
+
+# Print the performance metrics for West Nile model
+cat("West Nile Model Performance:\n")
+cat("MAE:", wn_MAE, "\n")
+cat("MSE:", wn_MSE, "\n")
+cat("RMSE:", wn_RMSE, "\n")
+cat("R-squared:", wn_R_squared, "\n")
+cat("Response Variable Range:", wn_response_range, "\n\n")
+#------------------------------------------------------------------------------------------------------
+#rabies
+# Split the Rabies data into training and testing sets
+rabies_train_indices <- createDataPartition(grouped_rabies$median_branch_length, p = 0.7, list = FALSE)
+rabies_train_data <- grouped_rabies[rabies_train_indices, ]
+rabies_test_data <- grouped_rabies[-rabies_train_indices, ]
+
+# Fit a GAM model using the training data for Rabies
+rabies_gam_model <- train(
+  log(median_branch_length) ~ mean_sum_extracted_values +
+    mean_extracted_temp + mean_extracted_precip,
+  data = rabies_train_data, method = "gam", trControl = ctrl
+)
+
+# Predict using the test data for Rabies
+rabies_predictions <- predict(rabies_gam_model, newdata = rabies_test_data)
+rabies_predictions_original <- exp(rabies_predictions)
+rabies_errors <- rabies_predictions_original - rabies_test_data$median_branch_length
+
+# Calculate performance metrics for Rabies
+rabies_MAE <- mean(abs(rabies_errors), na.rm = TRUE)
+rabies_MSE <- mean(rabies_errors^2, na.rm = TRUE)
+rabies_RMSE <- sqrt(rabies_MSE)
+rabies_R_squared <- cor(rabies_predictions_original, rabies_test_data$median_branch_length)^2
+rabies_response_range <- range(rabies_test_data$median_branch_length)
+
+# Print the performance metrics for Rabies model
+cat("Rabies Model Performance:\n")
+cat("MAE:", rabies_MAE, "\n")
+cat("MSE:", rabies_MSE, "\n")
+cat("RMSE:", rabies_RMSE, "\n")
+cat("R-squared:", rabies_R_squared, "\n")
+cat("Response Variable Range:", rabies_response_range, "\n")
+#========================================================================================================
+#by continent 
+#west nile
+#get continents from country 
+grouped_data <- grouped_data %>%
+  separate(location, into = c("country", "city"), sep = ":", extra = "drop")
+grouped_data$continent <- countrycode(sourcevar = grouped_data$country, origin = "country.name", destination = "continent")
+
+# Function to calculate metrics
+calculate_metrics <- function(data) {
+  set.seed(123)
+
+  results_list <- list()
+
+  for (continent in unique(data$continent)) {
+    continent_data <- data %>% filter(continent == continent)
+
+    continent_train_indices <- createDataPartition(continent_data$median_branch_length, p = 0.7, list = FALSE)
+    continent_train_data <- continent_data[continent_train_indices, ]
+    continent_test_data <- continent_data[-continent_train_indices, ]
+
+    continent_gam_model <- train(log(median_branch_length) ~ mean_sum_extracted_values +
+                                   mean_extracted_temp + mean_extracted_precip,
+                                 data = continent_train_data, method = "gam")
+
+    continent_predictions <- predict(continent_gam_model, newdata = continent_test_data)
+    continent_predictions_original <- exp(continent_predictions)
+    continent_errors <- continent_predictions_original - continent_test_data$median_branch_length
+
+    continent_MAE <- mean(abs(continent_errors), na.rm = TRUE)
+    continent_MSE <- mean(continent_errors^2, na.rm = TRUE)
+    continent_RMSE <- sqrt(continent_MSE)
+    continent_R_squared <- cor(continent_predictions_original, continent_test_data$median_branch_length)^2
+
+    continent_metrics <- data.frame(Continent = continent,
+                                    MAE = continent_MAE,
+                                    MSE = continent_MSE,
+                                    RMSE = continent_RMSE)
+
+    results_list[[continent]] <- continent_metrics
+  }
+
+  continent_metrics <- do.call(rbind, results_list)
+  return(continent_metrics)
+}
+
+# Process rabies data
+grouped_rabies <- grouped_rabies %>%
+  separate(location, into = c("country", "city"), sep = ":", extra = "drop")
+grouped_rabies$continent <- countrycode(sourcevar = grouped_rabies$country, origin = "country.name", destination = "continent")
+rabies_continent_metrics <- calculate_metrics(grouped_rabies)
+print(rabies_continent_metrics)
+
+# Scatter plot for temperature change vs. branch length by continent
+rabies_scatter_plot <- ggplot(grouped_rabies, aes(x = mean_extracted_temp, y = log(median_branch_length), color = continent)) +
+  geom_smooth(method = "lm", se = FALSE, aes(group = continent)) +
+  labs(x = "Temperature Change", y = "Median Branch Length") +
+  theme_minimal()
+
+# Process West Nile data
+grouped_data <- grouped_data %>%
+  separate(location, into = c("country", "city"), sep = ":", extra = "drop")
+grouped_data$continent <- countrycode(sourcevar = grouped_data$country, origin = "country.name", destination = "continent")
+wn_continent_metrics <- calculate_metrics(grouped_data)
+print(wn_continent_metrics)
+
+# Parallel coordinates plots for both sets of metrics
+continent_colors <- c("Asia" = "#86C3D0", "Americas" = "#C5E99B", "Africa" = "#FAC68E", "Europe" = "#F3B0C3", "Oceania" = "#9E9E9E")
+
+generic_plot <- function(data) {
+  ggplot(data, aes(x = variable, y = value, color = Continent, fill = Continent)) +
+    geom_point(shape = 21, size = 4, position = position_dodge(width = 0.2)) +
+    labs(x = NULL, y = NULL) +
+    scale_color_manual(values = continent_colors) +
+    scale_fill_manual(values = continent_colors) +
+    theme_minimal() +
+    theme(legend.position = "none", text = element_text(size = 17))
+}
+
+wn_continent_metrics_long <- reshape2::melt(wn_continent_metrics, id.vars = "Continent")
+rabies_continent_metrics_long <- reshape2::melt(rabies_continent_metrics, id.vars = "Continent")
+
+rabies_plot <- generic_plot(rabies_continent_metrics_long)
+wn_plot <- generic_plot(wn_continent_metrics_long)
+
+# Combine the plots into a single column
+combined_plot <- grid.arrange(rabies_plot, wn_plot, nrow = 2)
+
+# Display the combined plot
+print(combined_plot)
+
