@@ -42,8 +42,9 @@ Scripts to run all models and produce figures:
 ↳ scripts → models
                 
                 ↳ correlation_geo_phylo.R [correlation phylogenetic and spatial distances]
-                ↳ models.R [gam, cross val]
+                ↳ models.R [gam]
                 ↳ moran test.R [spatial autocorrelation residuals]
+                ↳ k-cross val.R [k-cross validation ]
 
 ↳ scripts → figures
                 
