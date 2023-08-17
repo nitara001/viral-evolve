@@ -7,8 +7,8 @@ library(caret)
 # Fit GAM model for West Nile data
 west_nile_model <- mgcv::gam(
   log(median_branch_length) ~ mean_sum_extracted_values +
-    mean_extracted_temp + mean_extracted_precip +
-    s(num_occurrences, bs = "re"),
+    mean_extracted_temp + mean_extracted_precip + num_occurrences +
+  s( X, Y, bs= "gp"), 
   data = grouped_data
 )
 
@@ -21,8 +21,8 @@ summary(west_nile_model)
 # Fit GAM model for Rabies data
 rabies_model <- mgcv::gam(
   log(median_branch_length) ~ mean_sum_extracted_values +
-    mean_extracted_temp + mean_extracted_precip +
-    s(num_occurrences, bs = "re"),
+    mean_extracted_temp + mean_extracted_precip + num_occurrences +
+  s( X, Y, bs= "gp"), 
   family = gaussian(),
   data = grouped_rabies
 )
